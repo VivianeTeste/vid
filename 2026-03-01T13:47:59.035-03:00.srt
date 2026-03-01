@@ -1,0 +1,1 @@
+{"srt":"1\n00:00:00,140 --> 00:00:01,480\nO coração dispara.\n\n2\n00:00:01,820 --> 00:00:03,480\nA mão começa a suar.\n\n3\n00:00:03,920 --> 00:00:06,920\nVocê diz sim, só para fugir daquela sensação\n\n4\n00:00:06,920 --> 00:00:07,780\nruim.","chunk_id":"req_01kjg0z223egt9rhggtvn50d3r"}
